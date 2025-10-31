@@ -1,0 +1,18 @@
+body {
+  background-color: #fff0f5;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  margin-bottom: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-buy {
+  background-color: #e91e63;
+  color: white;
+}
+
+.btn-buy:hover {
+  background-color: #d81b60;
+}

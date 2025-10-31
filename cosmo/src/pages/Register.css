@@ -1,0 +1,26 @@
+#background{
+     background-image: url("C:/Users/sweth/OneDrive/Desktop/cosmo/cosmo/src/Images/background.jpeg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      margin: 0;
+      height: 100%;
+
+}
+
+    .login-card {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 100px;
+  border-radius: 15px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+  width: 100%;
+  margin: 8% 33%;
+  max-width: 400px;
+}
+    .login-card h2 {
+      text-align: center;
+      margin-bottom: 30px;
+      color: #e91e63;
+    }
+

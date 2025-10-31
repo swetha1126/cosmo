@@ -1,0 +1,24 @@
+#background {
+  background-image: url("C:/Users/sweth/OneDrive/Desktop/cosmo/cosmo/src/Images/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh; /* 100% of viewport height */
+  width: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+   .center-text {
+      text-align: center;
+      font-family: 'Playfair Display', serif;
+      padding-top: 40px;
+      color: #fff;
+      font-size: 3.5em;
+  margin-bottom: 0.4em;
+  font-weight: bold;
+      text-shadow: 1px 1px 4px black;
+    }
+
